@@ -1,0 +1,15 @@
+# Python environment and caches (recreated by build_exe.bat)
+.venv/
+__pycache__/
+*.pyc
+
+# Built app - attach CameraViewer.exe to a GitHub Release instead (over GitHub's 100 MB file limit)
+*.exe
+build/
+dist/
+*.spec
+
+# Recordings, in case they get saved here
+*.avi
+*_timestamps.csv
+*_ttl_events.csv
