@@ -68,4 +68,4 @@ route a Harp digital output into an Arduino running the sketch instead.
 
 ## Credits
 
-Written by [your name]. Built with help from Claude (Anthropic).
+Written by Raphael Fabre. Built with help from Claude (Anthropic).
